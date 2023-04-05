@@ -1,6 +1,6 @@
 name: forked_slider_button
 description: Customizable slider button widget for activating/deactivating some event.
-version: 2.0.1
+version: 2.0.2
 homepage: https://github.com/anirudhsharma392/Slider-Button
 
 environment:

@@ -2,7 +2,7 @@
 add a gradient to the button.
 add a spring effect on tapping a handler of a button
 
-## [2.0.1] : 05/04/23.
+## [2.0.2] : 05/04/23.
 * fixed wide buttons issue
 * changed label type to widget
 
