@@ -1,6 +1,6 @@
 # Slider Button v2.0.0
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-## Forked from [slider_button](https://github.com/anirudhsharma392/Slider-Button)
+## Forked from [forked_slider_button](https://github.com/anirudhsharma392/Slider-Button)
 This package provides an easy implementation of a Slider Button to cancel current transaction or screen.
 Highly customizable iphone alike looking widget.
 
@@ -22,7 +22,7 @@ You just need to define the border radius to swap between rectangle and circle t
 </p>
 
 ```dart
-import 'package:slider_button/slider_button.dart';
+import 'package:forked_slider_button/forked_slider_button.dart';
 
 ```
 
@@ -60,7 +60,7 @@ This is a Rectangle type widget.
 </p>
 
 ```dart
-import 'package:slider_button/slider_button.dart';
+import 'package:forked_slider_button/forked_slider_button.dart';
 
 ```
 

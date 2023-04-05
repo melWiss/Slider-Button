@@ -1,4 +1,4 @@
-# slider_button_example
+# forked_slider_button_example
 
 A new Flutter application.
 

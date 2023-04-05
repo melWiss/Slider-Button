@@ -2,6 +2,10 @@
 add a gradient to the button.
 add a spring effect on tapping a handler of a button
 
+## [2.0.1] : 05/04/23.
+* fixed wide buttons issue
+* changed label type to widget
+
 ## [0.6.0] : 06/09/20.
 
 * Fixed No implementation found for method channel vibration

@@ -1,6 +1,6 @@
 {
-    "name": "slider_button_example",
-    "short_name": "slider_button_example",
+    "name": "forked_slider_button_example",
+    "short_name": "forked_slider_button_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:slider_button/slider_button.dart';
+import 'package:forked_slider_button/forked_slider_button.dart';
 
 void main() => runApp(MyApp());
 
